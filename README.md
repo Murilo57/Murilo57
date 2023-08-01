@@ -3,9 +3,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Murilex32)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/dev-murilo)
 
-<div align="center">
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo57&show_icons=true&theme=merko)
-</div>
+	[![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo57&show_icons=true&theme=merko)]
 <div align="center">
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilo57&layout=compact&theme=tokyonight"/>
 </div>
