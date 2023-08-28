@@ -8,7 +8,7 @@
 </div>
 About me:
 
-working at the moment as Delphi Developer Junior CLT using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.
+working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.
 
 Freelance web developer with React, Bootstrap, Javascript, HTML, CSS.
 
@@ -16,8 +16,6 @@ Freelance web developer with React, Bootstrap, Javascript, HTML, CSS.
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="html:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
