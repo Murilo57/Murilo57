@@ -10,7 +10,7 @@ About me:
 
 working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.
 
-Freelance web developer with React, Bootstrap, Javascript, HTML, CSS.
+learning web developer with Javascript, HTML, CSS.
 
 ## Technologys what utili in my day by day:
 
