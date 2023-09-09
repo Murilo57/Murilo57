@@ -1,26 +1,29 @@
-<p align="center">
-### Hi! My name is Murilo!
+<h1> Hi! I'm Murilo! 👨🏻‍💻 </h1> 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Murilex32)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/murilo-web-dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xV3wQQzA)
+<h3>Contact</h3>
+<p>
+  <a href="https://twitter.com/Murilex32">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://discord.gg/xV3wQQzA">
+  <img src="https://skillicons.dev/icons?i=discord" />
+
 </p>
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Murilo57&layout=compact&theme=tokyonight"/>
 </div>
-About me:
+<h3>About me:</h3>
 
-working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.
+<h4>working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.</h4>
 
-learning web developer with Javascript, HTML, CSS.
+<h4>learning web developer with Javascript, HTML, CSS.</h4>
 
 ## Technologys what utili in my day by day:
 
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
   </a>
 </p>
 </div>
