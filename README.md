@@ -1,9 +1,7 @@
 <h1> Hi! I'm Murilo! 👨🏻‍💻 </h1> 
 
 <h3>Contact</h3>
-<p>
-  <a href="https://twitter.com/Murilex32">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+<p></p>
   <a href="https://discord.gg/xV3wQQzA">
   <img src="https://skillicons.dev/icons?i=discord" />
 
