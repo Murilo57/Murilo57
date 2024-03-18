@@ -16,14 +16,12 @@
 
 <h4>working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.</h4>
 
-<h4>learning web developer with Javascript, HTML, CSS.</h4>
-
 ## Technologys what utili in my day by day:
 
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,nodejs,python,mysql,git,github" />
   </a>
 </p>
 </div>
