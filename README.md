@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,arduino,nodejs,python,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,go,python,arduino,postgres,git,github" />
   </a>
 </p>
 </div>
