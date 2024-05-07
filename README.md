@@ -1,10 +1,10 @@
 <h1> Hi! I'm Murilo! 👨🏻‍💻 </h1> 
 
 <h3>Contact</h3>
-<p></p>
+<p>
   <a href="https://www.linkedin.com/in/murilo-ferreira-b0469a222/">
   <img src="https://skillicons.dev/icons?i=linkedin" /> 
-  <a href="https://discord.gg/xV3wQQzA">
+  <a href="https://discord.gg/z4K32FNE">
   <img src="https://skillicons.dev/icons?i=discord" />
 
 </p>
@@ -14,14 +14,14 @@
 </div>
 <h3>About me:</h3>
 
-<h4>working at the moment as Delphi Developer Junior using technolgys day by day Delphi, FireBird and Tortoise Svn for versioning.</h4>
+<h4>I am Back-end Developer and enthusiastic de Blockchain</h4>
 
 ## Technologys what utili in my day by day:
 
 <div style="display: inline_block"><br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,go,python,arduino,postgres,git,github" />
+    <img src="https://skillicons.dev/icons?i=go,python,postgres,arduino,git,github" />
   </a>
 </p>
 </div>
