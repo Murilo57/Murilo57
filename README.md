@@ -14,7 +14,7 @@
 </div>
 <h3>About me:</h3>
 
-<h4>I am Back-end Developer and enthusiastic de Blockchain</h4>
+<h4>I am back-end developer and Blockchain enthusiastic </h4>
 
 ## Technologys what utili in my day by day:
 
