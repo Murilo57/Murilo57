@@ -3,9 +3,7 @@
 <h3>Contact</h3>
 <p>
   <a href="https://www.linkedin.com/in/murilo-ferreira-b0469a222/">
-  <img src="https://skillicons.dev/icons?i=linkedin" /> 
-  <a href="https://discord.gg/z4K32FNE">
-  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 
 </p>
 
